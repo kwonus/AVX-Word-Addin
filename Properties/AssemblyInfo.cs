@@ -33,6 +33,6 @@ using System.Security;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("9.24.12.27")]
-[assembly: AssemblyFileVersion("9.24.12.27")]
+[assembly: AssemblyVersion("9.25.1.04")]
+[assembly: AssemblyFileVersion("9.25.1.04")]
 
